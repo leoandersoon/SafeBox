@@ -122,7 +122,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/leoandersoon) - leoanderson633@protonmail.ch
+Leo Anderson - [@twitter_handle](https://twitter.com/leoandersoon) - leoanderson633@protonmail.ch
 
 Project Link: [https://github.com/leoandersoon/SafeBox](https://github.com/leoandersoon/SafeBox)
 
