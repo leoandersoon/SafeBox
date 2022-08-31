@@ -1,6 +1,7 @@
 import sqlite3
 from show import *
 from store import *
+from database import *
 
 class Password:
     website = input("Enter the website: ")
@@ -8,7 +9,3 @@ class Password:
     password = input("Enter the password: ")
 
     show_data(website, username, password)
-
-    conn = sqlite3.connect('data.db')
-
-    conn.close()
